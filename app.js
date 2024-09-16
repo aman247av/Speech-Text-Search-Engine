@@ -52,7 +52,7 @@ const urls = require("./urls");
 
 const N = 3023;
 const W = 27602;
-const avgdl = 138.27125372146875;
+const avgdl = 9.13;
 
 // Starting the Server
 const app = express();
